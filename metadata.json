@@ -1,0 +1,6 @@
+{
+  "name": "Luxora AI",
+  "description": "Your AI-Powered Career Operating System - Premium Job & Internship Platform matching top talent with elite Indian and global companies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
